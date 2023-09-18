@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color:#f4d467;
+  background-color:#67a9f4;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -14,10 +14,12 @@ body {
   background-size: 100% 100%;
   background-repeat: no-repeat;
   min-height: 400px;
+  
 }
 
 .player-card {
   height: 400px;
+  background-color: #67a9f4;;
   & img {
     filter:blur(3px);
     transition: transform 0.3s;
